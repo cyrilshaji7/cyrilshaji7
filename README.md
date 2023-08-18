@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Cyril!</h1>
-<h3 align="center">Very passionate person</h3>
+<h3 align="center">Very passionate about problem solving!</h3>
 
 - I’m currently working on **Aqua Pinion**
 
