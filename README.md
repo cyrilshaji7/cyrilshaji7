@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Cyril!</h1>
 <h3 align="center">Very passionate about problem solving!</h3>
 
-- I’m currently working on **Aqua Pinion**
 
 - 📫How to reach me **cyrilshaji7@gmail.com**
 
